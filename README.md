@@ -1,4 +1,5 @@
- [![hugo + netlify](https://res.cloudinary.com/dzkoxrsdj/image/upload/v1656562989/template_1_edyp8b.png)](https://ntl.fyi/3P9w1mr)
+původně pro publikování na netlify,
+já to mám na github pages
 
 # Hugo Quickstart Template   
 
