@@ -1,12 +1,12 @@
 baseURL = '/'
-languageCode = 'en'
-defaultContentLanguage = "en"
+languageCode = 'cs'
+defaultContentLanguage = "cs"
 hasCJKLanguage = true
 enableEmoji = true
-title = 'iTheme'
-copyright = 'Floyd Li'
+title = 'd277'
+copyright = 'David Marek'
 theme = 'hugo-theme-itheme'
-paginate = 5
+paginate = 6
 [params]
   defaultCover = 'https://www.apple.com.cn/newsroom/images/apple-logo_black.jpg.landing-regular_2x.jpg'
   email = 'floyd.li@outlook.com'
